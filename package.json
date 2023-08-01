@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
+    "homepage": "https://github.com/lelka1112/ouyh",
     "author": {
         "name": "OFC-YOVANI"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
+        "url": "git+https://github.com/lelka1112/ouyh.git"
     },
     "bugs": {
-        "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
+        "url": "https://github.com/lelka1112/ouyh/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
