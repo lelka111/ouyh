@@ -32,7 +32,7 @@ let text = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰�
 let buttonMessage= {
 'document': { url: `https://github.com/OFC-YOVANI/HADES-BOT-OMEGA` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `люся`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
